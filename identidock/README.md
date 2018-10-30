@@ -1,7 +1,7 @@
 identidock
 ==========
 
-This is Test.
+This is Test. This is second.
 
 Simple identicon server based on monsterid from Kevin Gaudin.
 
